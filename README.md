@@ -20,15 +20,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nethriondev&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethriondev&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
-</p>
-
----
-
 <p align="center">
   <i>Let's build something amazing together.</i>
 </p>
