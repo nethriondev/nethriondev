@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Kenneth Panio</b> 👋
+  <b>Neth Orion</b> 👋
 </h1>
 
 <p align="center">
